@@ -1,6 +1,10 @@
 ---
 layout: post
+author: kb3
 ---
+From: kb3
+Sent: Friday, February 10, 2023 07:58
+Subject: Kako lopovi misle do mog novca?
 
 Dragi naši,
 
