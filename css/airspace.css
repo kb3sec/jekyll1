@@ -300,6 +300,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #subsite p {
   color: #8d8f92;
   margin-bottom: 20px;
+  padding-left: 80px;
 }
 #subsite .btn-view-works {
   background: #655E7A;
